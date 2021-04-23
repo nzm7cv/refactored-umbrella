@@ -1,6 +1,6 @@
 # Dit is de header H1 ##
 
-## En dit is een header H2 **
+## En dit is een header H2 ##
 
 Wat gewone tekst.
 
@@ -10,3 +10,9 @@ Wat gewone tekst.
 > 
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
+
+En nu een lijst:
+* 1e item
+* 2e item
+* e3 item
+
