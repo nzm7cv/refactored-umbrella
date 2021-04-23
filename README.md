@@ -8,3 +8,4 @@ Bladieblablabla
 - Begrijp dat dddd
 - Maak repositories
 - enz.
+- nog een bullit
